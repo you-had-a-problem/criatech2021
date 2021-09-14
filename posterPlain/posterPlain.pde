@@ -37,7 +37,7 @@ float i = 0;
 float currentTimer;
 int timer = 10000; // 2 posters
 
-color colC1 = #BBAB9B, colC2 = #EEC0DB, colC3 = #E9E8D4, colC4 = #f9bdfd, colC5 = #F3C9DD, colC6 = #0C3934;
+color colC1 = #BBAB9B, colC2 = #EEC0DB, colC3 = #E9E8D4, colC4 = #F9BDFD, colC5 = #F3C9DD, colC6 = #0C3934;
 color colBG1 = #371722, colBG2 = #162BF4, colBG3 = #3B465C, colBG4 = #181919, colBG5 = #72AEC5, colBG6 = #F8EBEE;
 
 color [] colorBG = {
